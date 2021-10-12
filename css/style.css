@@ -326,4 +326,5 @@ body {
 .wrapper-contact {
     display: flex;
     gap: 50px;
+    margin-top: 17px;
 }
